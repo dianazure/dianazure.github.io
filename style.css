@@ -1,6 +1,6 @@
 /* Barra de navegacion */
 body{
-  background-color: #fffaa6;
+  background-color: white;
 }
 .navbar {
   padding: 2rem;
@@ -67,7 +67,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #fffaa6;
+  background-color: white;
   min-height: 250px;
   text-align: center;
 }
@@ -106,7 +106,7 @@ h1 {
 
 .experiencia {
   padding: 40px 40px 60px 40px;
-  background-color: #fffaa6;
+  background-color: white;
 }
 
 .experiencia .columna {
@@ -117,7 +117,6 @@ h1 {
   align-items: center;
   justify-content: space-evenly;
   transition: all 0.2s ease-in;
-  background-color: #fffaa6;
 }
 
 .experiencia .columna:hover {
@@ -162,7 +161,7 @@ h1 {
 {
   margin: 20px;
   padding: 40px;
-  background-color: #fffaa6;
+  background-color: white;
 }
 
 .proyectos-recientes img {
